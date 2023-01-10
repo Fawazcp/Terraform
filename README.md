@@ -1,3 +1,3 @@
 # Terraform
 `aws configure`
-#How to create a terraform LAB
+# How to create a terraform LAB
