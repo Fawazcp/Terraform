@@ -8,5 +8,5 @@
 
 - [**Providers in Terraform**](https://www.linkedin.com/posts/fawaz-c-p-5618b1183_heyconnections-letsgrowtogether-cloud-activity-7024813201112399872-xdzL?utm_source=share&utm_medium=member_desktop) 
 
-
+- **Modules in Terraform**(https://www.linkedin.com/posts/fawaz-c-p-5618b1183_heyconnections-letsgrowtogether-cloud-activity-7026559389050306560-s9Ky?utm_source=share&utm_medium=member_desktop)
 
